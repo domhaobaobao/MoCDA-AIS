@@ -1,2 +1,4 @@
-# MoCDA-AIS
-AIS convergence for MoCDA's collection
+MoCDA-AIS
+---------
+
+[Identifier requirements](art_identifier.md)
